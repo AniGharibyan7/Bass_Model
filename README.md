@@ -4,6 +4,10 @@
 
 This project applies the Bass diffusion model to forecast the market adoption of Bose Ultra Open Earbuds (selected from TIME's 2023 Best Innovations list) by comparing it to the historical adoption pattern of Apple AirPods.
 
+## Source of Dataset
+https://www.statista.com/statistics/1421624/apple-airpods-unit-sales/
+
+
 ## Contents
 
 - **Bass-Model.ipynb**: Jupyter notebook containing the analysis and code
